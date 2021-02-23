@@ -1,15 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RDS HD" tvg-name="RDS HD" group-title="Sports" parent-code="" tv-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" audio-track="nl",RDS HD http://rv.imax.re:80/IcXuKdFSjp/uOtoaNTNW9/83267
-#EXTINF:-1 tvg-id="RDS 2" tvg-name="RDS 2" group-title="Sports" parent-code="" tv-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rds2.png" audio-track="nl",RDS 2 http://rv.imax.re:80/691101116461401/691101116461401/83337
-#EXTINF:-1 tvg-id="TVA SPORTS HD" tvg-name="TVA SPORTS HD" group-title="Sports" parent-code="" tv-logo="https://images-na.ssl-images-amazon.com/images/I/31X-R%2BD%2BdXL.png" audio-track="nl",TVA SPORTS HD http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/53993
-#EXTINF:-1 tvg-id="TVA SPORTS" tvg-name="TVA SPORTS" group-title="Sports" parent-code="" tv-logo="https://images-na.ssl-images-amazon.com/images/I/31X-R%2BD%2BdXL.png" audio-track="nl",TVA SPORTS http://rv.imax.re:80/691101116461401/691101116461401/83316
-#EXTINF:-1 tvg-id="TVA SPORTS 2" tvg-name="TVA SPORTS 2" group-title="Sports" parent-code="" tv-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA-Sports2.png" audio-track="nl",TVA SPORTS 2 http://rv.imax.re:80/691101116461401/691101116461401/83317
-#EXTINF:-1 tvg-id="CBC" tvg-name="CBC" group-title="Sports" parent-code="" tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/1024px-CBC_Logo_1992-Present.svg.png" audio-track="nl",CBC http://rv.imax.re:80/691101116461401/691101116461401/81407
-#EXTINF:-1 tvg-id="SPORTSNET EAST" tvg-name="SPORTSNET EAST" group-title="Sports" parent-code="" tv-logo="https://images.ctfassets.net/evnrpfa1vdk4/2mSsfpvZC6FyBD1XA92hzl/17dd649dcc6f6f32841733668b7992de/Sportsnet_East.jpg" audio-track="nl",SPORTSNET EAST http://rv.imax.re:80/691101116461401/691101116461401/81250
-#EXTINF:-1 tvg-id="SPORTSNET ONE" tvg-name="SPORTSNET ONE" group-title="Sports" parent-code="" tv-logo="https://images.ctfassets.net/evnrpfa1vdk4/6xrBhwsKkMIbRxhw0n7lnd/6d8ab7df5548a392d19ff2ac52813a57/Sportsnet_One.jpg" audio-track="nl",SPORTSNET ONE http://rv.imax.re:80/691101116461401/691101116461401/81249
-#EXTINF:-1 tvg-id="SPORTSNET 360" tvg-name="SPORTSNET 360" group-title="Sports" parent-code="" tv-logo="https://cdn.tvpassport.com/image/station/240x135/sn360.png" audio-track="nl",SPORTSNET 360 http://rv.imax.re:80/691101116461401/691101116461401/81251
-#EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" group-title="Sports" parent-code="" tv-logo="https://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" audio-track="nl",TSN 5 http://hd.waldi2017.com:2082/110023041214988/81515121/26126
-#EXTINF:-1 tvg-id="NBCSN" tvg-name="NBCSN" group-title="Sports" parent-code="" tv-logo="https://www.pikpng.com/pngl/m/13-135892_nbcsn-logo-nbc-sports-network-clipart.png" audio-track="nl",NBCSN http://iptv.wtf:80/ssoeunmw/c8lu1nZL33/11098
+#EXTINF:-1 tvg-id="RDS HD" tvg-name="RDS HD" group-title="Sports" parent-code="" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png" audio-track="nl",RDS HD
+http://rv.imax.re:80/IcXuKdFSjp/uOtoaNTNW9/83267
+#EXTINF:-1 tvg-id="RDS 2" tvg-name="RDS 2" group-title="Sports" parent-code="" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rds2.png" audio-track="nl",RDS 2
+http://rv.imax.re:80/691101116461401/691101116461401/83337
+#EXTINF:-1 tvg-id="TVA SPORTS HD" tvg-name="TVA SPORTS HD" group-title="Sports" parent-code="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31X-R%2BD%2BdXL.png" audio-track="nl",TVA SPORTS HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/53993
+#EXTINF:-1 tvg-id="TVA SPORTS" tvg-name="TVA SPORTS" group-title="Sports" parent-code="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31X-R%2BD%2BdXL.png" audio-track="nl",TVA SPORTS
+http://rv.imax.re:80/691101116461401/691101116461401/83316
+#EXTINF:-1 tvg-id="TVA SPORTS 2" tvg-name="TVA SPORTS 2" group-title="Sports" parent-code="" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/TVA-Sports2.png" audio-track="nl",TVA SPORTS 2
+http://rv.imax.re:80/691101116461401/691101116461401/83317
+#EXTINF:-1 tvg-id="CBC" tvg-name="CBC" group-title="Sports" parent-code="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/1024px-CBC_Logo_1992-Present.svg.png" audio-track="nl",CBC
+http://rv.imax.re:80/691101116461401/691101116461401/81407
+#EXTINF:-1 tvg-id="SPORTSNET EAST" tvg-name="SPORTSNET EAST" group-title="Sports" parent-code="" tvg-logo="https://images.ctfassets.net/evnrpfa1vdk4/2mSsfpvZC6FyBD1XA92hzl/17dd649dcc6f6f32841733668b7992de/Sportsnet_East.jpg" audio-track="nl",SPORTSNET EAST
+http://rv.imax.re:80/691101116461401/691101116461401/81250
+#EXTINF:-1 tvg-id="SPORTSNET ONE" tvg-name="SPORTSNET ONE" group-title="Sports" parent-code="" tvg-logo="https://images.ctfassets.net/evnrpfa1vdk4/6xrBhwsKkMIbRxhw0n7lnd/6d8ab7df5548a392d19ff2ac52813a57/Sportsnet_One.jpg" audio-track="nl",SPORTSNET ONE
+http://rv.imax.re:80/691101116461401/691101116461401/81249
+#EXTINF:-1 tvg-id="SPORTSNET 360" tvg-name="SPORTSNET 360" group-title="Sports" parent-code="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sn360.png" audio-track="nl",SPORTSNET 360
+http://rv.imax.re:80/691101116461401/691101116461401/81251
+#EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" group-title="Sports" parent-code="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" audio-track="nl",TSN 5
+http://hd.waldi2017.com:2082/110023041214988/81515121/26126
+#EXTINF:-1 tvg-id="NBCSN" tvg-name="NBCSN" group-title="Sports" parent-code="" tvg-logo="https://www.pikpng.com/pngl/m/13-135892_nbcsn-logo-nbc-sports-network-clipart.png" audio-track="nl",NBCSN
+http://iptv.wtf:80/ssoeunmw/c8lu1nZL33/11098
 
 
 
